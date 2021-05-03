@@ -1,0 +1,1 @@
+READMETo test, type this in command line:./s-talk [my port number] [remote machine name] [remote port number] 
