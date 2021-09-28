@@ -9,13 +9,13 @@ Type in command line:
 ./s-talk [my port number] [remote machine name] [remote port number] 
 ```
 
-For example, one communicator types:
+For example, one communicator (machine321, port number 5000) types:
 ```
 ./s-talk 5000 machine123 6000
 ```
-And the other communicator types:
+And the other communicator (machine123, port number 6000) types:
 ```
-./s-talk 6000 machine123 5000 
+./s-talk 6000 machine321 5000 
 ```
 
 
